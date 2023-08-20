@@ -22,4 +22,4 @@ contract atm {
         CashAvailable += RefillAmount;
     }
 
-}sssss
+}
