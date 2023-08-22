@@ -21,3 +21,7 @@ contract Derived is Middle {
         return derived; 
     }
 }
+
+// The number of variables will not remain the same
+// because each contract except last contract inheriting 
+// variables from parent contracts.
